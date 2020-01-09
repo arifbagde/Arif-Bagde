@@ -1,0 +1,6 @@
+1. Import image and capture.
+2. Firebase / device.
+3. Doctors.
+4. locations.
+5. logs.
+
